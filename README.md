@@ -29,6 +29,9 @@
 <center><img src="https://metrics.lecoq.io/inferiorak?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></center>
 <br>
 
+## Contact Me
+<a href="https://fb.com/InferiorAK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="InferiorAK" height="30" width="40" /></a>
+<br>
 
 <h3 align="left">Languages and Tools ➤➤➤➤</h3>
 <p align="left" > 
