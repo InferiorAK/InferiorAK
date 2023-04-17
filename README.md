@@ -27,7 +27,7 @@
 <center><img src="https://metrics.lecoq.io/inferiorak?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></center>
 <br>
 
-<h3><b><i>Useful Tools ➤➤➤➤</i></b></h3>
+<h1>Useful Tools:</h1>
 
 <p align="center">
 <a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
