@@ -1,6 +1,6 @@
 <p align="center"><img src="inferiorak.gif" /></p>
-<h1 align="center">Hi, I'm InferiorAK</h1>
-<h3 align="center">Introvert Developer from Bangladesh</h3>
+<h1 align="center"><i>Hi, I'm InferiorAK</i></h1>
+<h3 align="center"><i>Introvert Developer from Bangladesh</i></h3>
 
 <p align="center"><a href="https://github.com/inferiorak">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=inferiorak&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
@@ -11,23 +11,26 @@
 <h3 align="center"><b><i>🏆 Profile Statistics :</i></b></h3>
 <p align="center"><a href="https://github.com/inferiorak"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=inferiorak&color=blueviolet&style=flat-square"></a></p>
 
-<h2 align="left">🏆 Github Statistics :</i></b></h2>
+<h2 align="left"><i>🏆 Github Statistics :</i></b></h2>
 <p align="center">
   <a href="https://github.com/inferiorak"><img width=550 src="https://github-profile-trophy.vercel.app/?username=inferiorak&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </p>
 <br>
+
+<i>
 
 - I’m currently working on **CTF**
 
 - I’m currently learning **Python**
 
 - How to reach me **inferiorak@gmail.com**
-
+</i>
+ 
 <br>
 <center><img src="https://metrics.lecoq.io/inferiorak?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></center>
 <br>
 
-<h1>Useful Tools:</h1>
+<h1><i>Useful Tools:</i></h1>
 
 <p align="center">
 <a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
@@ -39,11 +42,11 @@
 <li><i><a href="https://github.com/inferiorak?tab=repositories">And More</a></i></li>
 
 
-## Contact Me
+## <i>Contact Me</i>
 <a href="https://fb.com/InferiorAK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="InferiorAK" height="30" width="40" /></a>
 <br>
 
-<h3 align="left">Bit Skill ➤➤➤➤</h3>
+<h3 align="left"><i>Bit Skill ➤➤➤➤<i></h3>
 <p align="left" > 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
