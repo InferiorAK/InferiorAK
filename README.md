@@ -24,6 +24,10 @@
 - I’m currently learning **Python**
 
 - How to reach me **inferiorak@gmail.com**
+
+- Facebook  **www.facebook.com/inferiorak**
+
+- Youtube **www.youtube.com/@inferiorak**
 </i>
  
 <br>
