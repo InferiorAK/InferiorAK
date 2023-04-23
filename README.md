@@ -26,6 +26,8 @@
 - How to reach me **inferiorak@gmail.com**
 
 - Facebook  **www.facebook.com/inferiorak**
+  
+- Twitter **www.twitter.com/inferiorak**
 
 - Youtube **www.youtube.com/@inferiorak**
 </i>
