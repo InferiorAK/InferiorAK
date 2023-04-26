@@ -40,6 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy2&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/MiLocalShare"><img title="MiLocalShare" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiLocalShare&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/RansoInferor"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=RansoInferor&theme=vision-friendly-dark"></a>
 
