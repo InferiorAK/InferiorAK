@@ -36,9 +36,10 @@
 <center><img src="https://metrics.lecoq.io/inferiorak?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></center>
 <br>
 
-<h1><i>Useful Tools:</i></h1>
+## <i>Useful Tools:</i>
 
 <p align="center">
+  <a href="https://github.com/InferiorAK/Mi-TermBuild"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=Mi-TermBuild&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy2&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/MiLocalShare"><img title="MiLocalShare" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiLocalShare&theme=vision-friendly-dark"></a>
