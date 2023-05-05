@@ -25,10 +25,6 @@
 
 - How to reach me **inferiorak@gmail.com**
 
-- Facebook  **www.facebook.com/inferiorak**
-  
-- Twitter **www.twitter.com/inferiorak**
-
 - Youtube **www.youtube.com/@inferiorak**
 </i>
  
@@ -51,8 +47,10 @@
 
 
 ## <i>Contact Me</i>
-<a href="https://fb.com/InferiorAK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="InferiorAK" height="30" width="40" /></a>
-<br>
+[![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
+[![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
+[![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
 
 <h3 align="left"><i>Learner<i></h3>
 <p align="left" > 
