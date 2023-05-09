@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;
 <p align="center">
   <a href="https://github.com/inferiorak">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferiorak&layout=compact&theme=react&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InferiorAK&layout=compact&theme=react&hide_border=true">
   </a>
 </p>
 
@@ -42,11 +42,11 @@
 ## <i>Useful Tools:</i>
 
 <p align="center">
-  <a href="https://github.com/InferiorAK/Mi-TermBuild"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=Mi-TermBuild&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy2&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/MiLocalShare"><img title="MiLocalShare" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiLocalShare&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/RansoInferor"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=RansoInferor&theme=vision-friendly-dark"></a>
+  <a href="https://github.com/InferiorAK/Mi-TermBuild"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=Mi-TermBuild&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=MiProxy&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=MiProxy2&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiLocalShare"><img title="MiLocalShare" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=MiLocalShare&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/RansoInferor"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=RansoInferor&theme=vision-friendly-dark"></a>
 
 </p>
 
