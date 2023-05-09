@@ -2,11 +2,18 @@
 <h1 align="center"><i>Hi, I'm InferiorAK</i></h1>
 <h3 align="center"><i>Introvert Developer from Bangladesh</i></h3>
 
-<p align="center"><a href="https://github.com/inferiorak">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=inferiorak&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/inferiorak">
+<!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=inferiorak&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />-->
+    <img src="https://github-readme-stats.vercel.app/api?username=InferiorAK&show_icons=true&theme=gotham" alt="InferiorAK" />
+  </a>
+</p>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/inferiorak"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferiorak&layout=compact&theme=react&hide_border=true" />
-</a></p>
+<p align="center">
+  <a href="https://github.com/inferiorak">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferiorak&layout=compact&theme=react&hide_border=true">
+  </a>
+</p>
 
 <h3 align="center"><b><i>🏆 Profile Statistics :</i></b></h3>
 <p align="center"><a href="https://github.com/inferiorak"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=inferiorak&color=blueviolet&style=flat-square"></a></p>
