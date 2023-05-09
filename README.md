@@ -13,11 +13,11 @@
 </p>
 
 <h3 align="center"><b><i>🏆 Profile Statistics :</i></b></h3>
-<p align="center"><a href="https://github.com/inferiorak"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=inferiorak&color=blueviolet&style=flat-square"></a></p>
+<p align="center"><a href="https://github.com/inferiorak"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=InferiorAK&color=blueviolet&style=flat-square"></a></p>
 
 <h2 align="left"><i>🏆 Github Statistics :</i></b></h2>
 <p align="center">
-  <a href="https://github.com/inferiorak"><img width=550 src="https://github-profile-trophy.vercel.app/?username=inferiorak&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+  <a href="https://github.com/inferiorak"><img width=550 src="https://github-profile-trophy.vercel.app/?username=InferiorAK&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 </p>
 <br>
 
@@ -39,11 +39,11 @@
 ## <i>Useful Tools:</i>
 
 <p align="center">
-  <a href="https://github.com/InferiorAK/Mi-TermBuild"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=Mi-TermBuild&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=MiProxy&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=MiProxy2&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/MiLocalShare"><img title="MiLocalShare" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=MiLocalShare&theme=vision-friendly-dark"></a>
-<a href="https://github.com/InferiorAK/RansoInferor"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=inferiorak&repo=RansoInferor&theme=vision-friendly-dark"></a>
+  <a href="https://github.com/InferiorAK/Mi-TermBuild"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=Mi-TermBuild&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy2&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/MiLocalShare"><img title="MiLocalShare" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiLocalShare&theme=vision-friendly-dark"></a>
+<a href="https://github.com/InferiorAK/RansoInferor"><img title="RansoInferor" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=RansoInferor&theme=vision-friendly-dark"></a>
 
 </p>
 
