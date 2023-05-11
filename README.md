@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=InferiorAK&show_icons=true&theme=gotham" alt="InferiorAK" />
   </a>
   <a href="https://github.com/InferiorAK">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InferiorAK&layout=compact&bg_color=151515&text_color=ffffff&card_width=445&title_color=fff">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InferiorAK&layout=compact&bg_color=151515&text_color=fff&card_width=445&title_color=fff">
   </a>
 </p>
 
