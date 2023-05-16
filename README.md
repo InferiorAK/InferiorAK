@@ -26,7 +26,7 @@
 <div align="center">
   
   ![skills](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![skills](https://img.shields.io/badge/Cprogramming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![skills](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![skills](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![skills](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![skills](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
