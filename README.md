@@ -43,7 +43,8 @@
 
 <h2 align="left"><i>🏆 Github Statistics :</i></b></h2>
 <p align="center">
-  <a href="https://github.com/inferiorak"><img width=550 src="https://github-profile-trophy.vercel.app/?username=InferiorAK&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/inferiorak"><img width=550 src="https://github-profile-trophy.vercel.app/?username=InferiorAK&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=InferiorAK&theme=radical&no-frame=false&no-bg=true&margin-w=4"> -->
 </p>
 <br>
 
