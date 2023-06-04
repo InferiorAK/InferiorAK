@@ -78,3 +78,9 @@
   
 <li><i><a href="https://github.com/inferiorak?tab=repositories">And More</a></i></li>
 <br>
+
+<p align="center">
+  <img src="./assets/snake.svg">
+  <img src="./assets/thank.jpg">
+  <img src="./assets/fluid.svg">
+</p>
