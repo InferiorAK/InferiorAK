@@ -47,6 +47,10 @@
 </p>
 <br>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InferiorAK&theme=dark&hide_border=false">
+</p>
+
 <i>
 
 - I’m currently working on **CTF**
