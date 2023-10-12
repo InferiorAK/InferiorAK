@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/InferiorAK/Mi-PyCrypt"><img title="Mi-PyCrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=Mi-PyCrypt&theme=vision-friendly-dark"></a>
-  <a href="https://github.com/InferiorAK/GoponFile"><img title="GoponFile" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=GoponFile&theme=vision-friendly-dark"></a>
+  <a href="https://github.com/InferiorAK/GoponFile"><img title="PDFGuti" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=PDFGuti&theme=vision-friendly-dark"></a>
   <a href="https://github.com/InferiorAK/Mi-TermBuild"><img title="Mi-TermBuild" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=Mi-TermBuild&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/MiProxy"><img title="MiProxy" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy&theme=vision-friendly-dark"></a>
 <a href="https://github.com/InferiorAK/MiProxy2"><img title="MiProxy2" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=MiProxy2&theme=vision-friendly-dark"></a>
