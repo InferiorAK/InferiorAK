@@ -1,10 +1,14 @@
 <p align="center"><img src="inferiorak.gif" /></p>
-<h1 align="center"><i>Hi, I'm InferiorAK</i></h1>
+<!-- <h1 align="center"><i>Hi, I'm InferiorAK</i></h1> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&pause=2000&color=27B655&center=true&vCenter=true&width=435&height=20&lines=Hi%2C+I+am+InferiorAK" alt="Typing SVG" /></a>
+</p>
 <h3 align="center"><i>Introvert Developer from Bangladesh</i></h3>
 
 <p align="center">
   <a href="https://github.com/InferiorAK">
-<!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=inferiorak&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />-->
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=inferiorak&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /> -->
     <img src="https://github-readme-stats.vercel.app/api?username=InferiorAK&show_icons=true&theme=gotham" alt="InferiorAK" />
   </a>
   <a href="https://github.com/InferiorAK">
