@@ -56,9 +56,6 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=InferiorAK&theme=dark&hide_border=false">
 </p>
-
-- Now I am on some **Security Learnings**
-- Besides, I'm an active **CTF Player**
   
 <br>
 
@@ -81,7 +78,12 @@
 ![skills](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![skills](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+
+- Now I am on **Penetration Testing** Learnings
+- Besides, I'm an active **CTF Player**
+
 </div>
+
 
 
 
