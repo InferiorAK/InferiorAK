@@ -70,13 +70,14 @@
 
 <div align="center">
 
+![skills](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![skills](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![skills](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![skills](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Skills](https://img.shields.io/badge/C++-%231572B6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![skills](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![skills](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![skills](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![skills](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![skills](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 - Now I am on **Penetration Testing** Learnings
