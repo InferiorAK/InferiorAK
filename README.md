@@ -1,9 +1,14 @@
-<h1 align="center">Hi, I'm InferiorAK 👋</h1>
-<h3 align="center">Introvert Developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">Hi, I'm InferiorAK</h1>
+<h3 align="center">Cybersecurity Professional from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Red%20Team%20%26%20Penetration%20Testing-DC2626?style=for-the-badge" alt="Focus: Red Teaming and Penetration Testing" />
+  <img src="https://img.shields.io/badge/Mindset-Purple%20Team-7C3AED?style=for-the-badge" alt="Purple Team mindset" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&pause=2000&color=27B655&center=true&vCenter=true&width=500&height=30&lines=Cybersecurity+Learner;CTF+Player;Python+%7C+Bash+%7C+Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1500&duration=2800&color=22C55E&center=true&vCenter=true&width=760&height=55&lines=Red+Teaming+%7C+Penetration+Testing+%7C+Linux+Hardening;Founder+%26+Team+Lead+of+Integrated+Hawkers;100%2B+CTFs+Played+%7C+1000%2B+Challenges+Solved;Python+%E2%80%A2+Bash+%E2%80%A2+Flask+%E2%80%A2+System+Administration" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,19 +18,30 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently focused on **Penetration Testing**.
-- 🧠 Active **CTF player** and security learner.
-- 💻 I enjoy building practical tools with Python, Bash, and Linux.
+- **Cybersecurity professional** focused on **Red Teaming** and **Penetration Testing**.
+- Strong **Purple Team** mindset with hands-on **Blue Teaming** and **Linux hardening** experience.
+- Consistent CTF competitor with **100+ CTF participations** and **1000+ solved challenges**.
+- **Founder & Team Lead** of **Integrated Hawkers**, a recognized CTF team in Bangladesh.
+- Certified in **eJPT** and trained in **Linux System Administration** (KodeKloud / LFS101).
+- I automate security workflows using **Python** and **Bash**.
+
+## Certifications
+
+<p align="center">
+  <img src="./assets/eJPT-Badge.png" height="120" alt="eJPT Badge" />
+  <img src="./assets/LFS101-Badge.png" height="120" alt="LFS101 Badge" />
+</p>
 
 ---
 
-## 📬 Contact Me
+## My Links
 
 <div align="center">
 
 [![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
+[![Medium](https://img.shields.io/badge/Medium-@inferiorak-black?style=for-the-badge&logo=medium)](https://medium.com/@inferiorak)
 [![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
 [![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
@@ -34,7 +50,17 @@
 
 ---
 
-## 📊 Profile Statistics
+<!-- ## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/inferiorak" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-InferiorAK-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+--- -->
+
+## Profile Statistics
 
 <p align="center">
   <a href="https://github.com/InferiorAK">
@@ -53,7 +79,7 @@
 
 ---
 
-## 🏆 GitHub Highlights
+## GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InferiorAK&theme=github-dark&hide_border=true" width="95%" alt="GitHub activity graph" />
@@ -65,7 +91,7 @@
 
 ---
 
-## 🧰 Skills
+## Skills
 
 <div align="center">
 
@@ -85,7 +111,7 @@
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/InferiorAK/Mi-PyCrypt"><img title="Mi-PyCrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=InferiorAK&repo=Mi-PyCrypt&theme=vision-friendly-dark" alt="Mi-PyCrypt"></a>
@@ -98,7 +124,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/inferiorak?tab=repositories">🔎 Explore More Repositories</a>
+  <a href="https://github.com/inferiorak?tab=repositories">Explore More Repositories</a>
 </h3>
 
 ---
