@@ -45,6 +45,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
 [![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
+[![YouTube](https://img.shields.io/badge/YouTube-@inferiorak-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@inferiorak)
 
 </div>
 
