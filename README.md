@@ -46,6 +46,8 @@
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
 [![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
 [![YouTube](https://img.shields.io/badge/YouTube-@inferiorak-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@inferiorak)
+[![Website](https://img.shields.io/badge/Website-inferiorak.integratedhawkers.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inferiorak.integratedhawkers.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/My_Resume.pdf)
 
 </div>
 
