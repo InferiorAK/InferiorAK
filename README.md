@@ -24,14 +24,12 @@
 - Strong **Purple Team** mindset with hands-on **Blue Teaming** and **Linux hardening** experience.
 - Consistent CTF competitor with **100+ CTF participations** and **1000+ solved challenges**.
 - **Founder & Team Lead** of **Integrated Hawkers**, a recognized CTF team in Bangladesh.
-- Certified in **eJPT** from INE, **ACP**, **CASA** from APIsec University and trained in **Linux System Administration** (KodeKloud \& LFS101).
+- Certified in **eJPT** from INE and trained in **Linux System Administration** (KodeKloud \& LFS101).
 - I automate security workflows using **Python** and **Bash**.
 
 ## Certifications
 
 <p align="center">
-  <img src="./assets/ACP-Badge.png" height="120" alt="ACP Badge" />
-  <img src="./assets/CASA-Badge.png" height="120" alt="CASA Badge" />
   <img src="./assets/eJPT-Badge.png" height="120" alt="eJPT Badge" />
   <img src="./assets/LFS101-Badge.png" height="120" alt="LFS101 Badge" />
 </p>
