@@ -24,12 +24,15 @@
 - Strong **Purple Team** mindset with hands-on **Blue Teaming** and **Linux hardening** experience.
 - Consistent CTF competitor with **100+ CTF participations** and **1000+ solved challenges**.
 - **Founder & Team Lead** of **Integrated Hawkers**, a recognized CTF team in Bangladesh.
-- Certified in **eJPT** from INE and trained in **Linux System Administration** (KodeKloud \& LFS101).
+- **LPT (Master)**, **CPENT** and **eJPTv2** Certified.
+- Also, trained in **Linux System Administration** (KodeKloud \& LFS101).
 - I automate security workflows using **Python** and **Bash**.
 
 ## Certifications
 
 <p align="center">
+  <img src="./assets/LPTMASTER_330BB5B4D0B9.png" height="120" alt="LPT (Master) Badge" />
+  <img src="./assets/CPENT_8890F2209CCC.png" height="120" alt="CPENT Badge" />
   <img src="./assets/eJPT-Badge.png" height="120" alt="eJPT Badge" />
   <img src="./assets/LFS101-Badge.png" height="120" alt="LFS101 Badge" />
 </p>
